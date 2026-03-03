@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "id": "coffee",
+      "label": "Coffee",
+      "items": [
+        {
+          "id": "espresso",
+          "name": "Espresso",
+          "description": "Strong and bold classic espresso shot.",
+          "rating": 4.6,
+          "price": 3.5,
+          "thumbnail": "/menu/coffee/espresso/espresso_coffee.jpg",
+          "route": "/menu/coffee/espresso"
+        },
+        {
+          "id": "cappuccino",
+          "name": "Cappuccino",
+          "description": "Espresso with steamed milk foam.",
+          "rating": 4.8,
+          "price": 4.5,
+          "thumbnail": "/images/menu/coffee/cappuccino.jpg",
+          "route": "/menu/coffee/cappuccino",
+          "tag": "Popular"
+        }
+      ]
+    },
+    {
+      "id": "tea",
+      "label": "Tea",
+      "items": [
+        {
+          "id": "matcha",
+          "name": "Matcha Latte",
+          "description": "Stone-ground matcha with creamy milk.",
+          "rating": 4.7,
+          "price": 4.75,
+          "thumbnail": "/images/menu/tea/matcha.jpg",
+          "route": "/menu/tea/matcha"
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "label": "Food",
+      "items": [
+        {
+          "id": "avocado-toast",
+          "name": "Avocado Toast",
+          "description": "Sourdough topped with fresh avocado.",
+          "rating": 4.5,
+          "price": 6.5,
+          "thumbnail": "/images/menu/food/avocado-toast.jpg",
+          "route": "/menu/food/avocado-toast",
+          "tag": "New"
+        }
+      ]
+    }
+  ]
+}
