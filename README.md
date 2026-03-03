@@ -355,3 +355,4 @@ http://localhost:3000
 # 👨‍💻 Author
 
 Created by **GlacioFrags** aka **Kyro**
+Idea: Contributed by [**Ashika Pal**](https://github.com/anshi894)
